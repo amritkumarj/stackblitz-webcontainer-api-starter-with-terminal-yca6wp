@@ -1,0 +1,4 @@
+{
+  "corsProxy": true,
+  "startCommand": "curl rate.sx/btc"
+}
